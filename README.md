@@ -1,1 +1,5 @@
 # jstutorial
+
+-HTML
+-CSS
+-JS
